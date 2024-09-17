@@ -17,7 +17,8 @@
 - Apasionado por la programacion
 - Tecnologo en desarrollo de software
 - Actualmente estudiando Ingeneria de sistemas
-- Portafolio[link](https://adrian-castro.onrender.com)
+- Portafolio [link](https://adrian-castro.onrender.com)
+- Autor de [Livewire/CountUp](https://packagist.org/packages/devdrian/livewire-countup)
 
 <br><br>
 
@@ -29,13 +30,8 @@
 <p align="center">
 
 - **Languages**:
-    ![PHP](https://img.shields.io/badge/PHP%20-%23FFFFFF.svg?style=for-the-badge&logo=php&logoColor=0078D6)
-![JAVA](https://img.shields.io/badge/JAVA-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-
-
-   
-
-   
+	![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  	![JAVA](https://img.shields.io/badge/JAVA-%23007396.svg?style=for-the-badge&logo=Java&logoColor=white)
 
 <br>   
     
@@ -72,13 +68,7 @@
 
 <br>
 
-- **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
-</p>
 
 <br>
 <br>
