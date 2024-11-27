@@ -15,7 +15,7 @@
 
 - Apasionado por la programacion
 - Tecnologo en desarrollo de software
-- Actualmente estudiando Ingeneria de sistemas
+- Actualmente estudiando Ingenieria de sistemas
 - Portafolio [link](https://devdrian.vercel.app/)
 - Autor de [Livewire/CountUp](https://packagist.org/packages/devdrian/livewire-countup)
 
