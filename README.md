@@ -36,13 +36,18 @@
     
 - **Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![LARAVEL](https://img.shields.io/badge/LARAVEL%20-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![SPRING BOOT](https://img.shields.io/badge/SPRING%20BOOT%20-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-  ![TAILWIND CSS](https://img.shields.io/badge/TAILWIND%20CSS%20-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![LARAVEL](https://img.shields.io/badge/LARAVEL%20-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![SPRING BOOT](https://img.shields.io/badge/SPRING%20BOOT%20-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
+![TAILWIND CSS](https://img.shields.io/badge/TAILWIND%20CSS%20-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![LIVEWIRE](https://img.shields.io/badge/LIVEWIRE%20-%238B0000.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![REACT](https://img.shields.io/badge/REACT%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) 
+![NEXT.JS](https://img.shields.io/badge/NEXT.JS%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) 
+![ANGULAR](https://img.shields.io/badge/ANGULAR%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+
 
 
 <br>
@@ -59,10 +64,11 @@
 <br>
 
 - **Softwares and Tools**:
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![GLPI](https://img.shields.io/badge/GLPI-%23F68212.svg?style=for-the-badge&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-%23FF5500.svg?style=for-the-badge&logo=framer&logoColor=white)
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 <br>
