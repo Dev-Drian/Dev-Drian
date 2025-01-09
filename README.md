@@ -36,51 +36,27 @@
     
 - **Development**:
 
-Here’s the updated version with WordPress, Elementor, and Zapier added under **Softwares and Tools**:  
 
 ---
 
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![LARAVEL](https://img.shields.io/badge/LARAVEL%20-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
-![SPRING BOOT](https://img.shields.io/badge/SPRING%20BOOT%20-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
-![TAILWIND CSS](https://img.shields.io/badge/TAILWIND%20CSS%20-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![LIVEWIRE](https://img.shields.io/badge/LIVEWIRE%20-%238B0000.svg?style=for-the-badge&logo=laravel&logoColor=white)  
-![REACT](https://img.shields.io/badge/REACT%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![NEXT.JS](https://img.shields.io/badge/NEXT.JS%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
-![ANGULAR](https://img.shields.io/badge/ANGULAR%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
+<div align="center">
+
+### **Tecnologías**  
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![LARAVEL](https://img.shields.io/badge/LARAVEL%20-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![SPRING BOOT](https://img.shields.io/badge/SPRING%20BOOT%20-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![TAILWIND CSS](https://img.shields.io/badge/TAILWIND%20CSS%20-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![LIVEWIRE](https://img.shields.io/badge/LIVEWIRE%20-%238B0000.svg?style=for-the-badge&logo=laravel&logoColor=white) ![REACT](https://img.shields.io/badge/REACT%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![NEXT.JS](https://img.shields.io/badge/NEXT.JS%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![ANGULAR](https://img.shields.io/badge/ANGULAR%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
 
 <br>
 
-### **Cloud Hosting**:
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-%2300C7B7.svg?style=for-the-badge&logo=render&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)  
+### **Cloud Hosting**  
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2300C7B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)  
 
 <br>
 
-### **Softwares and Tools**:  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![GLPI](https://img.shields.io/badge/GLPI-%23F68212.svg?style=for-the-badge&logoColor=white)  
-![Framer](https://img.shields.io/badge/Framer-%23FF5500.svg?style=for-the-badge&logo=framer&logoColor=white)  
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)  
-![Elementor](https://img.shields.io/badge/Elementor-%23D62A74.svg?style=for-the-badge&logo=elementor&logoColor=white)  
-![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)  
+### **Softwares y Herramientas**  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GLPI](https://img.shields.io/badge/GLPI-%23F68212.svg?style=for-the-badge&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-%23FF5500.svg?style=for-the-badge&logo=framer&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-%23D62A74.svg?style=for-the-badge&logo=elementor&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white)  
+
+</div>
 
 ---
-
-
-<br>
-
-
-
-<br>
-<br>
-
------
-
-<br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -89,8 +65,9 @@ Here’s the updated version with WordPress, Elementor, and Zapier added under *
 <div align="center">
 
 ![dev-drian's Stats](https://github-readme-stats.vercel.app/api?username=dev-drian&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![dev-drian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-drian&theme=vue-dark&hide_border=true)
 ![dev-drian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-drian&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![dev-drian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-drian&theme=vue-dark&hide_border=true)
+
 </div>
 
 <br>
